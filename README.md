@@ -27,7 +27,7 @@
 #### **Website**
 
 -   **[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)**
--   **[SCSS](https://sass-lang.com/documentation/syntax)**
+-   **[CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 
 #### **Utilitaries**
 
@@ -45,18 +45,13 @@ In addition, it is good to have an editor to work with the code as [VSCode][vsco
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/luizmr/Starter
+$ git clone https://github.com/luizmr/fylo-data-storage
 
 # Access the project folder in the cmd/terminal
-$ cd Starter
-
-# Install the dependencies
-$ npm install
+$ cd fylo-data-storage
 
 # Run the application in development mode
 $ npm start
-
-# The server will start at port:3000 - go to http://localhost:3000
 ```
 
 ## 📝 License
